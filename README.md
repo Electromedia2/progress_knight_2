@@ -1,5 +1,3 @@
-# Progress Knight Quest
-
-A continuation of Progress Knight 2.0. Contains 5 prestige layers with various unique mechanics.
-
-PRs which fix bugs are welcome :)
+# NOT-Progress Knight Quest
+this is a mistake.
+this is a tensorflow tutarial
